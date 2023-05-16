@@ -1,0 +1,11 @@
+﻿add job Job_A with length 4
+no new job this slice
+add job Job_B with length 2
+add job Job_C with length 7
+no new job this slice
+add job Job_D with length 5
+add job Job_E with length 1
+no new job this slice
+add job Job_F with length 3
+no new job this slice
+no new job this slice
